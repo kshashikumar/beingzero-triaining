@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shashikumar2712/beingzero-triaining/issues"
   },
-  "homepage": "https://github.com/shashikumar2712/beingzero-triaining#readme"
+  "homepage": "https://github.com/shashikumar2712/beingzero-triaining#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
